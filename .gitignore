@@ -1,0 +1,21 @@
+# Raw datasets
+*.csv
+*.sqlite
+*.db
+
+# SQL Server database files
+*.mdf
+*.ldf
+*.bak
+
+# IDE/editor files
+.idea/
+.vscode/
+
+# Temporary/log files
+*.tmp
+*.log
+
+# Windows system files
+Thumbs.db
+Desktop.ini
