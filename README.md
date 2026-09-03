@@ -126,8 +126,4 @@ Shooting percentages across multiple games are calculated using total makes divi
 Potential future additions include:
 
 * Play-by-play analysis
-* Largest comeback victories
-* Lead-change analysis
-* Clutch performance analysis
-* Scoring-run analysis
 * Data visualizations and dashboards
