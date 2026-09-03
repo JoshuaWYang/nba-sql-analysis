@@ -95,8 +95,7 @@ Includes:
 
 The project uses the **NBA Stats Dataset: 1996 - Present** from Kaggle.
 
-Dataset:
-https://www.kaggle.com/datasets/chevronronson/nba-stats-dataset
+Dataset: [NBA Stats Dataset: 1996 - Present](https://www.kaggle.com/datasets/chevronronson/nba-stats-dataset)
 
 The raw dataset is not included in this repository due to file size. The original dataset can be downloaded from Kaggle using the link above.
 
@@ -120,6 +119,28 @@ Additional data preparation included:
 * Using unique player and team IDs when grouping records
 
 Shooting percentages across multiple games are calculated using total makes divided by total attempts rather than averaging individual-game percentages.
+
+## Example Results
+
+### LeBron James Career High Season Averages
+
+![LeBron James Career Highs](screenshots/player_career_highs.png)
+
+### 2025-26 Scoring Leaderboard
+
+![2025-26 Scoring Leaderboard](screenshots/scoring_leaderboard.png)
+
+### Year-to-Year Scoring Improvement
+
+![Year-to-Year Scoring Improvement](screenshots/year_to_year_improvement.png)
+
+### Team Improvement
+
+![Team Improvement](screenshots/team_improvement.png)
+
+### Largest Blowouts
+
+![Largest Blowouts](screenshots/largest_blowouts.png)
 
 ## Future Improvements
 
